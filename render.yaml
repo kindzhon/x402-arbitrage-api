@@ -1,0 +1,10 @@
+{
+  "name": "x402-arbitrage-api",
+  "description": "Monetized API with x402 payment protocol",
+  "repository": "https://github.com/kindzhon/x402-arbitrage-api",
+  "website": "https://x402-arbitrage-api.onrender.com",
+  "framework": "python",
+  "buildCommand": "pip install -r requirements.txt",
+  "startCommand": "python xiaomiao-simple-api.py",
+  "env": []
+}
